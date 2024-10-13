@@ -4,7 +4,4 @@ scikit-learn
 scipy
 numpy
 pandas
-json
-os
-csv
 streamlit
